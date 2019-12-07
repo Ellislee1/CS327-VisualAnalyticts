@@ -1,0 +1,161 @@
+country,percent,perceivedHealth
+Austria,31.9,Very Good
+Austria,38.3,Good
+Austria,21.6,Fair
+Austria,6.4,Bad
+Austria,1.7,Very Bad
+Belgium,29.8,Very Good
+Belgium,43.9,Good
+Belgium,17,Fair
+Belgium,7.2,Bad
+Belgium,2,Very Bad
+Bulgaria,19.1,Very Good
+Bulgaria,46.7,Good
+Bulgaria,23.2,Fair
+Bulgaria,8.7,Bad
+Bulgaria,2.3,Very Bad
+Switzerland,33.2,Very Good
+Switzerland,44.5,Good
+Switzerland,17.8,Fair
+Switzerland,3.8,Bad
+Switzerland,0.7,Very Bad
+Cyprus,44.1,Very Good
+Cyprus,34.6,Good
+Cyprus,16.8,Fair
+Cyprus,3.8,Bad
+Cyprus,0.7,Very Bad
+Czechia,18.6,Very Good
+Czechia,41.8,Good
+Czechia,27.9,Fair
+Czechia,9.7,Bad
+Czechia,2,Very Bad
+Germany,18,Very Good
+Germany,47.2,Good
+Germany,26.5,Fair
+Germany,6.9,Bad
+Germany,1.4,Very Bad
+Denmark,26.5,Very Good
+Denmark,44.8,Good
+Denmark,21.1,Fair
+Denmark,5.4,Bad
+Denmark,2.2,Very Bad
+Estonia,9.3,Very Good
+Estonia,43.6,Good
+Estonia,32.7,Fair
+Estonia,12.5,Bad
+Estonia,1.9,Very Bad
+Greece,45,Very Good
+Greece,29,Good
+Greece,15.6,Fair
+Greece,7.5,Bad
+Greece,2.8,Very Bad
+Spain,15.6,Very Good
+Spain,56.9,Good
+Spain,20.6,Fair
+Spain,5.5,Bad
+Spain,1.4,Very Bad
+Finland,20.2,Very Good
+Finland,50.1,Good
+Finland,23.8,Fair
+Finland,5,Bad
+Finland,0.9,Very Bad
+France,21.9,Very Good
+France,44.5,Good
+France,25.5,Fair
+France,7.1,Bad
+France,1,Very Bad
+Croatia,25.5,Very Good
+Croatia,33.8,Good
+Croatia,22.1,Fair
+Croatia,14.8,Bad
+Croatia,3.8,Very Bad
+Hungary,17.6,Very Good
+Hungary,42,Good
+Hungary,27.1,Fair
+Hungary,10.4,Bad
+Hungary,2.8,Very Bad
+Ireland,41.7,Very Good
+Ireland,41.1,Good
+Ireland,13.7,Fair
+Ireland,2.8,Bad
+Ireland,0.8,Very Bad
+Iceland,38.3,Very Good
+Iceland,37.7,Good
+Iceland,17.4,Fair
+Iceland,5,Bad
+Iceland,1.5,Very Bad
+Italy,10.5,Very Good
+Italy,60.4,Good
+Italy,21.4,Fair
+Italy,6.4,Bad
+Italy,1.3,Very Bad
+Lithuania,6.6,Very Good
+Lithuania,36.8,Good
+Lithuania,39.6,Fair
+Lithuania,14.2,Bad
+Lithuania,2.7,Very Bad
+Luxembourg,23.4,Very Good
+Luxembourg,45.8,Good
+Luxembourg,21.2,Fair
+Luxembourg,7.8,Bad
+Luxembourg,1.8,Very Bad
+Latvia,5.1,Very Good
+Latvia,42.1,Good
+Latvia,37.2,Fair
+Latvia,12.6,Bad
+Latvia,3,Very Bad
+Malta,22.3,Very Good
+Malta,50.6,Good
+Malta,23.9,Fair
+Malta,2.6,Bad
+Malta,0.5,Very Bad
+Netherlands,22.5,Very Good
+Netherlands,53.4,Good
+Netherlands,19.2,Fair
+Netherlands,4.2,Bad
+Netherlands,0.7,Very Bad
+Norway,28.8,Very Good
+Norway,48.4,Good
+Norway,15.1,Fair
+Norway,6.4,Bad
+Norway,1.3,Very Bad
+Poland,15.9,Very Good
+Poland,42.7,Good
+Poland,27.8,Fair
+Poland,11,Bad
+Poland,2.7,Very Bad
+Portugal,8.7,Very Good
+Portugal,39,Good
+Portugal,36.4,Fair
+Portugal,12.1,Bad
+Portugal,3.8,Very Bad
+Romania,26.6,Very Good
+Romania,43.9,Good
+Romania,22.3,Fair
+Romania,6,Bad
+Romania,1.2,Very Bad
+Sweden,29,Very Good
+Sweden,46,Good
+Sweden,19.2,Fair
+Sweden,4.5,Bad
+Sweden,1.2,Very Bad
+Slovenia,20.3,Very Good
+Slovenia,44.2,Good
+Slovenia,25.5,Fair
+Slovenia,8.2,Bad
+Slovenia,1.7,Very Bad
+Slovakia,22.4,Very Good
+Slovakia,44.1,Good
+Slovakia,21.8,Fair
+Slovakia,9.1,Bad
+Slovakia,2.6,Very Bad
+Turkey,6.5,Very Good
+Turkey,62.3,Good
+Turkey,21.7,Fair
+Turkey,8.3,Bad
+Turkey,1.3,Very Bad
+United Kingdom,30.8,Very Good
+United Kingdom,38.1,Good
+United Kingdom,22.2,Fair
+United Kingdom,6.9,Bad
+United Kingdom,1.9,Very Bad
